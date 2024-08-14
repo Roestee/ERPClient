@@ -1,7 +1,7 @@
 # Roeste ERP Client Side
 
 Roeste ERP Projemin Frontend kısmı için Angular v18.1.0.,Backend kısmı için Asp.net kullandım.
-Backend Projesi: [Proje](https://github.com/Roestee/ERPServer)
+Backend Projesi: [ERP Server](https://github.com/Roestee/ERPServer)
 
 ## Proje Ayrıntıları
 
